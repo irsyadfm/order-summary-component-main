@@ -7,7 +7,7 @@ body {
 
 main {
   align-items: center;
-  background-image: url('C:/Users/Irsyad/Desktop/Web Dev/order-summary-component-main/images/pattern-background-desktop.svg');
+  background-image: url('images/pattern-background-desktop.svg');
   background-repeat: no-repeat;
   background-size: 100%;
   display: flex;
